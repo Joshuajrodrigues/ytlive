@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/ytlive/static/js/main.0d87cbee.chunk.js",
-    "main.js.map": "/ytlive/static/js/main.0d87cbee.chunk.js.map",
+    "main.js": "/ytlive/static/js/main.25e6e782.chunk.js",
+    "main.js.map": "/ytlive/static/js/main.25e6e782.chunk.js.map",
     "runtime-main.js": "/ytlive/static/js/runtime-main.86c2c11b.js",
     "runtime-main.js.map": "/ytlive/static/js/runtime-main.86c2c11b.js.map",
     "static/js/2.0a7899a2.chunk.js": "/ytlive/static/js/2.0a7899a2.chunk.js",
     "static/js/2.0a7899a2.chunk.js.map": "/ytlive/static/js/2.0a7899a2.chunk.js.map",
     "index.html": "/ytlive/index.html",
-    "precache-manifest.d922de7dcaa749e64689075b67beed4d.js": "/ytlive/precache-manifest.d922de7dcaa749e64689075b67beed4d.js",
+    "precache-manifest.0c170228136b0f6aa76cdb1181ef63ae.js": "/ytlive/precache-manifest.0c170228136b0f6aa76cdb1181ef63ae.js",
     "service-worker.js": "/ytlive/service-worker.js",
     "static/js/2.0a7899a2.chunk.js.LICENSE.txt": "/ytlive/static/js/2.0a7899a2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.86c2c11b.js",
     "static/js/2.0a7899a2.chunk.js",
-    "static/js/main.0d87cbee.chunk.js"
+    "static/js/main.25e6e782.chunk.js"
   ]
 }
