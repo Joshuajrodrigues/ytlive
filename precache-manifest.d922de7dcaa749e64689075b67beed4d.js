@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c4d49dcbf01347a69eb4a9af82065fe0",
+    "revision": "ce0e46711ec3134d08cff9ad671177bd",
     "url": "/ytlive/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ytlive/static/js/2.0a7899a2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9cfdadb82afbbacca18c",
-    "url": "/ytlive/static/js/main.41a22271.chunk.js"
+    "revision": "1e1cf7a0301d6e122fb8",
+    "url": "/ytlive/static/js/main.0d87cbee.chunk.js"
   },
   {
     "revision": "b632228c2dbeb9fead1d",
