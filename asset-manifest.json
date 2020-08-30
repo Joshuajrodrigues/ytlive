@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/ytlive.git/static/js/main.f056ceff.chunk.js",
+    "main.js.map": "/ytlive.git/static/js/main.f056ceff.chunk.js.map",
+    "runtime-main.js": "/ytlive.git/static/js/runtime-main.8993d8ee.js",
+    "runtime-main.js.map": "/ytlive.git/static/js/runtime-main.8993d8ee.js.map",
+    "static/js/2.0a7899a2.chunk.js": "/ytlive.git/static/js/2.0a7899a2.chunk.js",
+    "static/js/2.0a7899a2.chunk.js.map": "/ytlive.git/static/js/2.0a7899a2.chunk.js.map",
+    "index.html": "/ytlive.git/index.html",
+    "precache-manifest.2b777d3f9a0686e53e49f0ac9ed9f901.js": "/ytlive.git/precache-manifest.2b777d3f9a0686e53e49f0ac9ed9f901.js",
+    "service-worker.js": "/ytlive.git/service-worker.js",
+    "static/js/2.0a7899a2.chunk.js.LICENSE.txt": "/ytlive.git/static/js/2.0a7899a2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8993d8ee.js",
+    "static/js/2.0a7899a2.chunk.js",
+    "static/js/main.f056ceff.chunk.js"
+  ]
+}
