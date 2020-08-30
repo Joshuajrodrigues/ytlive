@@ -15,7 +15,7 @@ import youtube from "./api/youtube"
          const response= await youtube.get("search",{
             params: {
                 part:"snippet",
-                key:"AIzaSyAYDx8imB7PesnnRObolzC8mpZlxRsshsU",
+                key:"AIzaSyDslSJWZA6jqZ-pj3fN6Xha-ohqkC0YPow",
                 eventType:"live",
                 type:"video",
                 maxResults:"10",
